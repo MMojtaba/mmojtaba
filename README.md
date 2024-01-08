@@ -1,4 +1,4 @@
-# My Website
+# About
 
 I love programming, soccer, and video games!
 Currently, I'm most interested in website and video game development.
