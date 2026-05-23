@@ -1,6 +1,5 @@
 # About
 
-I love programming, soccer, and video games!  
-Currently, I'm most interested in website and video game development.  
-To see an overview of my projects, checkout my website at:  
+I'm a mostly self thought programmer who loves programming and learning new things.
+To see an overview of my projects, checkout my website:  
 https://mmojtaba.github.io/
